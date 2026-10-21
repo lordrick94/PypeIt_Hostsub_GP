@@ -172,3 +172,8 @@ object — no peak-detection object finding is needed.
 - **Documentation**: https://pypeit.readthedocs.io/
 - **Development Suite**: https://github.com/pypeit/PypeIt-development-suite
 
+
+## Fork notes (hostsub_gp)
+- This fork adds GP-based host-galaxy subtraction, enabled from the .pypeit file.
+- I perform all git operations. Read-only git only.
+- Prompts, design docs and refs live in dev_hostsub/. Never include that folder in PR diffs.
